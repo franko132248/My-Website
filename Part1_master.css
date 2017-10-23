@@ -1,0 +1,34 @@
+h1{
+  font-family: 'Racing Sans One', cursive;
+  text-align: center;
+}
+
+#dero{
+  border: 150px solid #50514F;
+  margin-right: 95%;
+  padding-top: 400px;
+}
+#go{
+  border: 150px solid #F25F5C;
+  margin-right: 95%;
+  padding-bottom: 400px;
+  margin-left: 18%;
+}
+#all{
+  border: 150px solid #FFE066;
+  margin-right: 95%;
+  padding-bottom: 400px;
+  margin-left: 36%;
+}
+#for{
+  border: 150px solid #247BA0;
+  margin-right: 95%;
+  margin-left: 54%;
+  padding-bottom: 400px;
+}
+#pie{
+  border: 150px solid #70C1B3;
+  margin-right: 95%;
+  margin-left: 80%;
+  padding-bottom: 400px;
+}
