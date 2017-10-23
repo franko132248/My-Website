@@ -1,0 +1,16 @@
+body{
+  background-color: #06327a;
+}
+h1{
+  color:white;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+a{
+  color: white;
+  font-family: 'Roboto Slab', serif;
+}
+img{
+  border: 5px solid black;
+  margin-left: 42%;
+}
