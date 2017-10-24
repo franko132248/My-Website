@@ -1,0 +1,42 @@
+body{
+  background-color: #06327a;
+}
+h1{
+  color:white;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+#scra{
+  margin-left: 40%;
+  border: 5px solid black
+}
+#port{
+  border: 5px solid black;
+}
+a{
+  color: white;
+  font-family: 'Roboto Slab', serif;
+}
+video{
+  border: 5px solid black;
+}
+#ft{
+  text-align: center;
+}
+#sp{
+  text-align: center;
+}
+#sp2{
+  color: white;
+  text-align: center;
+}
+#dd{
+  text-align: center;
+  color: white;
+}
+p{
+  text-align: center;
+}
+#code{
+  margin-left: 20%;
+}
